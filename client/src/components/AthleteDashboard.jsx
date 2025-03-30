@@ -53,7 +53,7 @@ import {
   LocalHospital,
 } from '@mui/icons-material';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://athletic-management-backend.onrender.com/api';
 
 const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#8884D8'];
 
