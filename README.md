@@ -35,7 +35,7 @@ A comprehensive platform for athletes to manage their performance, health, caree
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd sports-management-platform
+   cd Athletic-Management
    ```
 
 2. Install dependencies for both client and server:
